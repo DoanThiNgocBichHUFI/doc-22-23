@@ -1,0 +1,51 @@
+Bài 1. (4.0 điểm). Thông tin của một nhân viên hành chính trong một trường đại học
+bao gồm: Mã nhân viên (string), Họ tên (string), số ngày công (int), hệ số lương (float), trình
+độ (string), chức vụ (string).
+Trong đó:
+ Chức vụ của nhân viên chỉ được bao gồm các giá trị: Trưởng phòng, Phó phòng,
+Chuyên viên (Nếu không thuộc 3 giá trị trên thì mặc định chức vụ là chuyên viên).
+ Trình độ chỉ bao gồm các giá trị: Cử nhân, Thạc sĩ, Tiến sĩ (mặc định là Cử nhân).
+ Phụ cấp được tính như sau:
+o Cử nhân: 300; Thạc sĩ 500; Tiến sĩ: 1000.
+o Nếu có chức vụ là Trưởng phòng thì cộng thêm 1500, Phó phòng cộng thêm
+1000.
+ Lương nhân viên được tính như sau:
+Hệ số lương*1390 + Phụ cấp + Số ngày công*50
+a. Xây dựng lớp NhanVien được mô tả như trên.
+b. Xây dựng các phương thức get/set cho từng thông tin thành viên.
+c. Xây dựng 3 phương thức khởi tạo: phương thức khởi tạo mặc định, phương thức khởi
+tạo 1 tham số (là 1 đối tượng nhân viên) và phương thức khởi tạo 6 tham số.
+d. Xây dựng property tính phụ cấp của nhân viên.
+e. Xây dựng phương thức tính lương của nhân viên.
+f. Xây dựng phương thức xuất thông tin của một nhân viên.
+Bài 2. (6.0 điểm). Thông tin của phòng ban quản lý các nhân viên bao gồm:
+ Tên phòng
+ Vị trí
+ Danh sách các nhân viên trong phòng
+được lưu trữ trong file XML có cấu trúc như sau:
+<phongban>
+    <tenphong>...</tenphong>
+    <vitri>...</vitri>
+    <dsnv>
+        <nv>
+            <manv>…</manv>
+            <hoten>…</hoten>
+            <phongban>…</phongban>
+            <snc>…</snc>
+            <hsl> … </hsl>
+            <trinhdo>…</trinhdo>
+            <chucvu>…</chucvu>
+        </nv>
+        <nv>
+        …
+        </nv>
+    </dsnv>
+</Phongban>
+Hãy xây dựng lớp PhongBan để quản lý thông tin của phòng với các yêu cầu sau:
+a. Tạo file .xml lưu một phòng ban theo mẫu với ít nhât 5 nhân viên.
+b. Đọc thông tin phòng ban từ file theo định dạng đã cho.
+c. Xuất thông tin phòng ban ra màn hình.
+d. Tính tổng lương trường phải trả cho tất cả nhân viên trong phòng ban đó.
+e. Sắp xếp danh sách nhân viên tăng dần theo phòng ban, nếu trùng thì xếp tăng dần
+theo lương.
+f. Tìm thông tin của nhân viên họ tên là x có trong danh sách của trường hay không?

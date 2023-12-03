@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phongbans>
+    <phongban>
+        <tenphong>Bao chi</tenphong>
+        <vitri>Tang 4</vitri>
+        <dsnv>
+            <nv>
+                <manv>N204</manv>
+                <hoten>Ho ten nhan vien 1</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>28</snc>
+                <hsl>2</hsl>
+                <trinhdo>Tien si</trinhdo>
+                <chucvu>Pho phong</chucvu>
+            </nv>
+            <nv>
+                <manv>N206</manv>
+                <hoten>Ho ten nhan vien 2</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>23</snc>
+                <hsl>2</hsl>
+                <trinhdo>Thac si</trinhdo>
+                <chucvu>Truong phong</chucvu>
+            </nv>
+            <nv>
+                <manv>N207</manv>
+                <hoten>Ho ten nhan vien 3</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>29</snc>
+                <hsl>1</hsl>
+                <trinhdo>Cu nhan</trinhdo>
+                <chucvu>Chuyen vien</chucvu>
+            </nv>
+            <nv>
+                <manv>F551</manv>
+                <hoten>Nguyen Thi Phuong Thuy</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>29</snc>
+                <hsl>1.5</hsl>
+                <trinhdo>Cu nhan</trinhdo>
+                <chucvu>Chuyen vien</chucvu>
+        </nv>
+        <nv>
+            <manv>S114</manv>
+            <hoten>Phan Hung Phuc</hoten>
+            <phongban>Bao chi</phongban>
+            <snc>30</snc>
+            <hsl>1.5</hsl>
+            <trinhdo>Thac si</trinhdo>
+            <chucvu>Chuyen vien</chucvu>
+        </nv>
+        </dsnv>
+    </phongban>
+    <phongban>
+        <tenphong>aaaa</tenphong>
+        <vitri>Tang 5</vitri>
+        <dsnv>
+            <nv>
+                <manv>N204</manv>
+                <hoten>Dam Nguyen Trong Nghia</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>28</snc>
+                <hsl>2</hsl>
+                <trinhdo>Tien si</trinhdo>
+                <chucvu>Pho phong</chucvu>
+            </nv>
+            <nv>
+                <manv>H264</manv>
+                <hoten>Phan Nguyen Duy Hung</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>28</snc>
+                <hsl>2</hsl>
+                <trinhdo>Thac si</trinhdo>
+                <chucvu>Truong phong</chucvu>
+		    </nv>
+            <nv>
+                <manv>A224</manv>
+                <hoten>Tran Nguyen Minh Tri</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>30</snc>
+                <hsl>1</hsl>
+                <trinhdo>Cu nhan</trinhdo>
+                <chucvu>Chuyen vien</chucvu>
+            </nv>
+            <nv>
+                <manv>F551</manv>
+                <hoten>Nguyen Thi Phuong Thuy</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>29</snc>
+                <hsl>1.5</hsl>
+                <trinhdo>Cu nhan</trinhdo>
+                <chucvu>Chuyen vien</chucvu>
+            </nv>
+            <nv>
+                <manv>S114</manv>
+                <hoten>Phan Hung Phuc</hoten>
+                <phongban>Bao chi</phongban>
+                <snc>30</snc>
+                <hsl>1.5</hsl>
+                <trinhdo>Thac si</trinhdo>
+                <chucvu>Chuyen vien</chucvu>
+            </nv>
+        </dsnv>
+    </phongban>
+</phongbans>

@@ -1,0 +1,15 @@
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\bin\Debug\net7.0\nhan vien.exe
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\bin\Debug\net7.0\nhan vien.deps.json
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\bin\Debug\net7.0\nhan vien.runtimeconfig.json
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\bin\Debug\net7.0\nhan vien.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\bin\Debug\net7.0\nhan vien.pdb
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.csproj.AssemblyReference.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.AssemblyInfoInputs.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.AssemblyInfo.cs
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.csproj.CoreCompileInputs.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\refint\nhan vien.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.pdb
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\nhan vien.genruntimeconfig.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\TH Lap trinh hg doi tg\nhan vien\obj\Debug\net7.0\ref\nhan vien.dll
