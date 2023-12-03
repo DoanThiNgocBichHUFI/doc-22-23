@@ -1,0 +1,15 @@
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\bin\Debug\net7.0\buoi 9.exe
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\bin\Debug\net7.0\buoi 9.deps.json
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\bin\Debug\net7.0\buoi 9.runtimeconfig.json
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\bin\Debug\net7.0\buoi 9.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\bin\Debug\net7.0\buoi 9.pdb
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.csproj.AssemblyReference.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.AssemblyInfoInputs.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.AssemblyInfo.cs
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.csproj.CoreCompileInputs.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\refint\buoi 9.dll
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.pdb
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\buoi 9.genruntimeconfig.cache
+C:\Users\84339\OneDrive\NAM HOC 22-23\HK 2 NAM 22-23\LAP TRINH HUONG DOI TUONG\buoi 9\obj\Debug\net7.0\ref\buoi 9.dll

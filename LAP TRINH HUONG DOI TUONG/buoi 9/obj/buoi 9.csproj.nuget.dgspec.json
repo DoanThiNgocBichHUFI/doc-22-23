@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\84339\\OneDrive\\NAM HOC 22-23\\HK 2 NAM 22-23\\LAP TRINH HUONG DOI TUONG\\buoi 9\\buoi 9.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\84339\\OneDrive\\NAM HOC 22-23\\HK 2 NAM 22-23\\LAP TRINH HUONG DOI TUONG\\buoi 9\\buoi 9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\84339\\OneDrive\\NAM HOC 22-23\\HK 2 NAM 22-23\\LAP TRINH HUONG DOI TUONG\\buoi 9\\buoi 9.csproj",
+        "projectName": "buoi 9",
+        "projectPath": "C:\\Users\\84339\\OneDrive\\NAM HOC 22-23\\HK 2 NAM 22-23\\LAP TRINH HUONG DOI TUONG\\buoi 9\\buoi 9.csproj",
+        "packagesPath": "C:\\Users\\84339\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\84339\\OneDrive\\NAM HOC 22-23\\HK 2 NAM 22-23\\LAP TRINH HUONG DOI TUONG\\buoi 9\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\84339\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

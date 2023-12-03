@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DANHSACH>
+  <SV>
+    <ID>1</ID>
+    <NAME>TRAN THI MY LE</NAME>
+    <TOAN>7</TOAN>
+    <LY>8</LY>
+    <HOA>10</HOA>
+  </SV>
+  <SV>
+    <ID>2</ID>
+    <NAME>TRAN THI MY HANG</NAME>
+    <TOAN>7</TOAN>
+    <LY>5</LY>
+    <HOA>6</HOA>
+  </SV>
+  <SV>
+    <ID>3</ID>
+    <NAME>TRAN HOANG THAI</NAME>
+    <TOAN>6</TOAN>
+    <LY>8</LY>
+    <HOA>9</HOA>
+  </SV>
+</DANHSACH>

@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+
+  
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            hinhchunhat a = new hinhchunhat();
+            a.nhap();
+            //double b = a.tinhcv();
+           // Console.WriteLine("Chu vi hinh tron ={0}", b);
+            a.xuat();
+            Console.ReadLine();
+        }
+    }
+}
